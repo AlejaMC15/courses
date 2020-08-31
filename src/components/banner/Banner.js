@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const Banner = () => (
   <div className="banner-container">
-    <div className="bg-banner">
+    <div className="bg-banner p-3">
       <h1>Es momento de avanzar juntos...</h1>
       <p>
         En Sell Car queremos capacitarte para potenciar tus habilidades como

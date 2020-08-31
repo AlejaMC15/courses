@@ -17,8 +17,8 @@ const Testimonials = () => (
           <img src={Adviser} className="card-img-top" alt="..." />
           <div className="card-body">
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Gracias a la capacitación constante en Sell Car he podido ser el
+              mejor empleado del mes durante 3 meses consecutivos.
             </p>
           </div>
         </div>
@@ -28,8 +28,8 @@ const Testimonials = () => (
           <img src={WomanAdviser} className="card-img-top" alt="..." />
           <div className="card-body">
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Sin la capacitación que me permite Sell Car, no hubiera podido
+              llegar a ser la jefe de personal como lo soy ahora.
             </p>
           </div>
         </div>
@@ -39,8 +39,8 @@ const Testimonials = () => (
           <img src={WomanAdviserTwo} className="card-img-top" alt="..." />
           <div className="card-body">
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Me capacito constantemente con los cursos que ofrece Sell Car,
+              hace que mejore mis skills profesionales.
             </p>
           </div>
         </div>
