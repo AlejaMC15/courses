@@ -16,7 +16,7 @@ export const courses = [
   {
     id: 1,
     image:
-      'https://cdn.pixabay.com/photo/2016/12/19/10/16/hand-1917895__340.png',
+      'https://cdn.pixabay.com/photo/2017/01/14/10/56/men-1979261__340.jpg',
     title: 'Comunicación asertiva',
     description: '',
     steps: [
@@ -29,7 +29,7 @@ export const courses = [
   {
     id: 2,
     image:
-      'https://cdn.pixabay.com/photo/2016/12/19/10/16/hand-1917895__340.png',
+      'https://cdn.pixabay.com/photo/2016/03/09/09/22/workplace-1245776__340.jpg',
     title: 'Trabajo en equipo',
     description: '',
     steps: [<ContentOne />, <ContentTwo />, <ContentThree />, <ContentFour />],

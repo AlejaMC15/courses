@@ -10,7 +10,7 @@ const CourseList = () => {
   return (
     <div>
       <h1 className="p-5">Cursos</h1>
-      <div className="cardRender">
+      <div className="cardRender pb-5">
         {courses.length &&
           courses.map((course) => (
             <Link to={`/detail/${course.id}`} key={course.id}>

@@ -12,7 +12,7 @@ const Banner = () => (
         asesor al máximo.
       </p>
       <Link to="/courses">
-        <button className="btn btn-light mt-5">Ir a los coursos</button>
+        <button className="btn btn-light mt-5">Ir a los cursos</button>
       </Link>
     </div>
   </div>

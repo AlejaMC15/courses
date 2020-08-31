@@ -3,9 +3,7 @@ import React from 'react';
 import './contentFour.css';
 
 const ContentFourCommunication = () => (
-  <div>
-    <h2 className="p-3">Claves para hablar con seguridad y confianza</h2>
-
+  <div className="pt-4 pb-4 pr-3 pl-3">
     <h4>Sé humilde</h4>
     <p>
       Relacionarte, comunicarte y tratar a los que te rodean, de igual a igual,

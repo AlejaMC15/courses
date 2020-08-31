@@ -1,8 +1,7 @@
 import React from 'react';
 
 const ContentOne = () => (
-  <div>
-    <h1>¿Que es?</h1>
+  <div className="pt-4 pb-4 pr-3 pl-3">
     <p>
       Trabajar en equipo es el esfuerzo integrado de un conjunto de personas
       para la realización de un proyecto. Trabajar en equipo implica la

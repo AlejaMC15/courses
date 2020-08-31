@@ -1,8 +1,7 @@
 import React from 'react';
 
 const ContentFour = () => (
-  <div>
-    <h2> Construye confianza</h2>
+  <div className="pt-4 pb-4 pr-3 pl-3">
     <p>
       La confianza es el elemento principal del trabajo en equipo. Impulsa un
       ambiente donde todos los participantes conozcan las habilidades de los

@@ -1,8 +1,7 @@
 import React from 'react';
 
 const ContentOneCommunication = () => (
-  <div>
-    <h1>¿Que es?</h1>
+  <div className="pt-4 pb-4 pr-3 pl-3">
     <p className="text-justify">
       La Comunicación Asertiva es aquella que se da cuando logramos entablar un
       diálogo con los demás de forma simple, clara y oportuna. Este tipo de
