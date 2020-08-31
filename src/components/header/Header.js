@@ -7,8 +7,8 @@ import './header.css';
 const Header = () => (
   <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">
-        <a className="navbar-brand" href="#">
+      <a class="navbar-brand">
+        <a className="navbar-brand">
           <img src={logoImg} className="logo" />
         </a>
       </a>
@@ -27,14 +27,14 @@ const Header = () => (
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">
+            <a class="nav-link">
               <Link to="/" className="nav-link">
                 Inicio <span class="sr-only">(current)</span>
               </Link>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link">
               <Link to="/courses" className="nav-link">
                 Cursos
               </Link>
@@ -42,16 +42,10 @@ const Header = () => (
           </li>
           <li class="nav-item dropdown">
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">
-                Action
-              </a>
-              <a class="dropdown-item" href="#">
-                Another action
-              </a>
+              <a class="dropdown-item">Action</a>
+              <a class="dropdown-item">Another action</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">
-                Something else here
-              </a>
+              <a class="dropdown-item">Something else here</a>
             </div>
           </li>
         </ul>
