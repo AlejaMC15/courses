@@ -4,9 +4,9 @@ import './contentFour.css';
 
 const ContentFourCommunication = () => (
   <div>
-    <h1 className="p-3">Claves para hablar con seguridad y confianza</h1>
+    <h2 className="p-3">Claves para hablar con seguridad y confianza</h2>
 
-    <h2>Sé humilde</h2>
+    <h4>Sé humilde</h4>
     <p>
       Relacionarte, comunicarte y tratar a los que te rodean, de igual a igual,
       de manera horizontal y nunca de manera superior o inferior
@@ -15,7 +15,7 @@ const ContentFourCommunication = () => (
       característica que va a beneficiar a corto, medio y largo plazo.
     </p>
 
-    <h2>No terrebilices</h2>
+    <h4>No terrebilices</h4>
     <p>
       Pensar de cara a tu exposición que todo va a salir mal, que no vas a ser
       capaz de hacerlo, que te vas a equivocar, que el público se va a aburrir y
@@ -23,7 +23,7 @@ const ContentFourCommunication = () => (
       poner piedras en tu propio camino y piensa a la inversa.
     </p>
 
-    <h2>Transforma tus peculiaridades en virtudes</h2>
+    <h4>Transforma tus peculiaridades en virtudes</h4>
     <p>
       Quizá no te gusta nada tu timbre de voz, las muletillas que empleas sin
       darte cuenta al hablar, tu acento, el tono de tu voz, la forma en la que
@@ -34,7 +34,7 @@ const ContentFourCommunication = () => (
       complejos, los miedos y de verdad te sentirás más seguro al hablar.
     </p>
 
-    <h2>Siéntete y sé de verdad un expert@</h2>
+    <h4>Siéntete y sé de verdad un expert@</h4>
     <p>
       Una de las cosas que más inseguridad nos genera al hablar en público de
       algo, es tener la sensación de que no dominamos el tema en cuestión,
@@ -43,7 +43,7 @@ const ContentFourCommunication = () => (
       y estudiar… para de verdad estar preparado y salir airoso.
     </p>
 
-    <h2>Organízate</h2>
+    <h4>Organízate</h4>
     <p>
       Improvisar y ser espontáneo de vez en cuando está fenomenal, pero
       precisamente no es lo más recomendable para ganar seguridad y confianza.
@@ -53,7 +53,7 @@ const ContentFourCommunication = () => (
       estos tres: introducción, elementos centrales y conclusiones.
     </p>
 
-    <h2>Cuidado con los “peros”</h2>
+    <h4>Cuidado con los “peros”</h4>
     <p>
       Repetir y escuchar muchas veces la palabra “pero” no genera confianza. Al
       expresarlo pareciese como si estuvieras a la defensiva o creando un

@@ -21,11 +21,11 @@ const CourseDetail = () => {
     <div className="container-fluid courseDetail-container">
       {course ? (
         <div>
-          <div className="row">
-            <h1 className="col text-center">{course.title}</h1>
-          </div>
           <div className="row pt-2 flex-wrap-reverse">
             <div className="col-md-8">
+              <div className="row">
+                <h1 className="col text-left">{course.title}</h1>
+              </div>
               <div className="progress m-2">
                 <div
                   className="progress-bar bg-info"
